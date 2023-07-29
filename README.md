@@ -13,7 +13,7 @@ class Solution {
 	    int prefix=1;
 	    int suffix=1;
 	    int x = 0;
-	    //int i = 0;
+	    
 	     
 	     for(int i=0;i<n;i++){
 	         
